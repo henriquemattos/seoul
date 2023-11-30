@@ -1,7 +1,6 @@
 .idea
 .project
-node_modules/
-./models/*.json
+models/*.json
 web/webapp/*
 !web/webapp/.gitkeep
 
